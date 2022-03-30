@@ -1,28 +1,29 @@
+
 {
    "files": [ 
 
 {
-         "name": "SG-D-T-NOPRO-01",
-         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-D-T-NOPRO01.ovpn"
+         "name": "SG-DTAC-NOPRO-01",
+         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-DTAC-NOPRO01.ovpn"
       },
 
 {
-         "name": "SG-D-T-NOPRO-02",
-         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-D-T-NOPRO02.ovpn"
+         "name": "SG-DTAC-NOPRO-02",
+         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-DTAC-NOPRO02.ovpn"
       },
       {
-         "name": "SG-D-T-NOPRO-03",
-         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-D-T-NOPRO03.ovpn"
+         "name": "SG-DTAC-NOPRO-03",
+         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-DTAC-NOPRO03.ovpn"
       },
 
 {
-         "name": "SG-D-T-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-D-T-NOPRO04.ovpn"
+         "name": "SG-DTAC-NOPRO-04",
+         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-DTAC-NOPRO04.ovpn"
       },
       
       {
-         "name": "SG-D-T-NOPRO-04",
-         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-D-T-NOPRO05.ovpn"
+         "name": "SG-D-T-NOPRO-05",
+         "url": "https://raw.githubusercontent.com/Nookerzex/nookguza/main/SG-DTAC-NOPRO05.ovpn"
       },
       
       {
@@ -69,7 +70,9 @@
 "message":"update: 30/03/2022 \nConfig version:1\nUpdate by: NOOKER \nWhat's new \nพัฒนาแอพโดย น.นุ๊กคอดาว",
    "title":"ไฟล์พร้อมใช้งานแล้วจร้า" ,
    "version": 1
-}         
+}
 
+         
+   
 
    
